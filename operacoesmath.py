@@ -1,0 +1,10 @@
+num1 = float(input("Digite o primeiro valor:"))
+num2 = float(input("Digite o segundo valor:"))
+
+print("A soma eh:", num1 + num2)
+print("A subtracao eh:", num1 - num2)
+print("A multiplicacao eh:", num1 * num2)
+print("A divisao eh:", num1 / num2)
+print("A potenciacao eh:", num1 ** num2)
+print("A divisao inteira eh:", num1 // num2)
+print("O resto da divisao eh:", num1 % num2)
